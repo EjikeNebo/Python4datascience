@@ -1,0 +1,11 @@
+This is the first line for Text Document
+Created by Ejike Nebo
+On Sunday, 30th April, 2023
+For the Python Class.
+Thanks- Additional text added
+- Additional text added
+- I would like to try this again
+- and again
+
+
+- but like this now
